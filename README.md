@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samy, generally codename-Samy
+- 👋 Hi, I’m Saarthak, cool to call codename-Samy
 - 👀 I’m interested in System Program Development and Real-Time working applications.
 - 🌱 I’m currently learning Telecommunication {Network | Connectivity | Devices | Protocols}
 - 💞️ I’m looking to collaborate on Open Source Projects related to my specific learning track or Working full time on frontend / backend of any projects

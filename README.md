@@ -15,11 +15,11 @@
 ### :woman_technologist: &nbsp;About Me :
 - 👋 Hi there, I'm Saarthak - you can call me Samy!
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 👀 I'm looking forward for proble to solve
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and system applications including Database handling.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on Coding Platforms and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SaarthakPandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saarthak-pandey-060496) If you're interested in collaborating or discussing a project, please feel free to reach out to me at saarthak6496@gmail.com. I look forward to hearing from you!
+- 👀 I'm looking forward for realtime problem to solve in every technical domain.
+- 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web and system applications including Database handling.
+- 🌱 Exploring Technical, Carrer building and Personal Wellness Content Writing.
+- ⚡ In my free time I solve problems on Coding Platforms and read technical articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SaarthakPandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saarthak-pandey-060496) <br> If you're interested in collaborating or discussing a project, please feel free to reach out to me at saarthak6496@gmail.com. I look forward to hearing from you!
 
 ---
 
@@ -27,6 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
